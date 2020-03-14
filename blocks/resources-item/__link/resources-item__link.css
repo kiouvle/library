@@ -1,0 +1,17 @@
+@import url(./_icon/resources-item__link_icon.css);
+
+.resources-item__link {
+  text-decoration: none;
+  color: #63337F;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.resources-item__link:hover {
+  color: #D6722D;
+}
+
+.resources-item__link:active {
+  opacity: 0.8;
+}

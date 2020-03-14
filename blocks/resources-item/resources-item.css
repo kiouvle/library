@@ -1,0 +1,11 @@
+@import url(./__author/resources-item__author.css);
+@import url(./__description/resources-item__description.css);
+@import url(./__image/resources-item__image.css);
+@import url(./__link/resources-item__link.css);
+@import url(./__title/resources-item__title.css);
+@import url(./__text-container/resources-item__text-container.css);
+
+.resources-item {
+  display: flex;
+  margin-bottom: 60px;
+}

@@ -1,0 +1,7 @@
+@import url(./_text/resources__header_text.css);
+
+.resources__header {
+  width: 100%;
+  background-color: #63337F;
+  padding: 20px 0;
+}

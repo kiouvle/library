@@ -1,0 +1,10 @@
+@import url(./__header/resources__header.css);
+@import url(./_books/resources_books.css);
+@import url(./__block/resources__block.css);
+
+.resources {
+  width: 100%;
+  margin: 40px 80px;
+  background-color: white;
+  border: solid 3px #63337F;
+}
