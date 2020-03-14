@@ -12,3 +12,7 @@
 .footer__link:hover {
   color: #D6722D;
 }
+
+.footer__link:active {
+  opacity: 0.8;
+}

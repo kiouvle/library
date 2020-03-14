@@ -9,3 +9,7 @@
   line-height: 23px;
   font-size: 15px;
 }
+
+.menu__link:active {
+  opacity: 0.8;
+}

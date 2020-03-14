@@ -7,3 +7,11 @@
   bottom: 22px;
   right: 40px;
 }
+
+.footer__copyright:hover {
+  color: #D6722D;
+}
+
+.footer__copyright:active {
+  opacity: 0.8;
+}
