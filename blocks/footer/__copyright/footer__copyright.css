@@ -1,0 +1,9 @@
+.footer__copyright {
+  position: absolute;
+  text-decoration: none;
+  color: #63337F;
+  font-weight: lighter;
+  font-size: 10px;
+  bottom: 22px;
+  right: 40px;
+}

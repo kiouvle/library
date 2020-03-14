@@ -1,8 +1,10 @@
 @import url(./__link/footer__link.css);
+@import url(./__copyright/footer__copyright.css);
 
 .footer {
   background-color: white;
   flex: 0;
   box-shadow: 0 -4px 4px -3px grey;
   display: flex;
+  position: relative;
 }
