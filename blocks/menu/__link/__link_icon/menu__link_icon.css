@@ -1,0 +1,9 @@
+.menu__link_icon {
+  width: 25px;
+  height: 25px;
+  margin: 0 10px 0 10px;
+}
+
+.menu__link_icon_in {
+  margin-left: 35px;
+}

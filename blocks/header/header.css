@@ -1,0 +1,12 @@
+@import url(./__link/header__link.css);
+@import url(./__logo/header__logo.css);
+@import url(./__link-container/header__link-container.css);
+@import url(./__link-item/header__link-item.css);
+
+.header {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 4px 4px -2px gray;
+  flex: 0;
+}

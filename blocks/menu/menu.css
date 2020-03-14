@@ -1,0 +1,9 @@
+@import url(./__item/menu__item.css);
+@import url(./__link/menu__link.css);
+@import url(./__list/menu__list.css);
+@import url(./__group/menu__group.css);
+
+.menu {
+  width: 400px; 
+  background-color: #63337F
+}

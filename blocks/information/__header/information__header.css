@@ -1,0 +1,7 @@
+@import url(./__header_text/information__header_text.css);
+
+.information__header {
+  width: 100%;
+  background-color: #63337F;
+  padding: 20px 0;
+}

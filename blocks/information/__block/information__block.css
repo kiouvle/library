@@ -1,0 +1,6 @@
+@import url(./__block_text/information__block_text.css);
+
+.information__block {
+  text-align: center;
+  padding: 15px 30px;
+}

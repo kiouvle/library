@@ -1,0 +1,7 @@
+@import url(./__group_hidden/menu__group_hidden.css);
+
+.menu__group {
+  padding: 0;
+  margin: 0;
+  background-color: #63337F;
+}

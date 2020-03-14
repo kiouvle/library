@@ -1,0 +1,9 @@
+@import url(./__block/information__block.css);
+@import url(./__header/information__header.css);
+
+.information {
+  width: 100%;
+  margin: 40px 80px;
+  background-color: white;
+  border: solid 3px #63337F;
+}

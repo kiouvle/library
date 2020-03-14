@@ -1,0 +1,14 @@
+@import url(./__link_icon/footer__link_icon.css);
+
+.footer__link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #63337F;
+  margin: 20px 0 20px 40px;
+  font-size: 12px;
+}
+
+.footer__link:hover {
+  color: #D6722D;
+}

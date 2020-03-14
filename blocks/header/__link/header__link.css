@@ -1,0 +1,11 @@
+@import url(./__link_icon/header__link_icon.css);
+
+.header__link {
+  text-decoration: none;
+  color: #63337F;
+  font-size: 14px;
+}
+
+.header__link:hover {
+  color: #D6722D;
+}
