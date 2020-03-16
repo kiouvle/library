@@ -6,6 +6,7 @@
   font-size: 16px;
   display: flex;
   align-items: center;
+  display: block;
 }
 
 .resources-item__link:hover {

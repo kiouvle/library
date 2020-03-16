@@ -1,5 +1,6 @@
 @import url(./__block/information__block.css);
 @import url(./__header/information__header.css);
+@import url(./_hidden/information_hidden.css);
 
 .information {
   width: 100%;

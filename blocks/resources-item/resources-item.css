@@ -4,6 +4,7 @@
 @import url(./__link/resources-item__link.css);
 @import url(./__title/resources-item__title.css);
 @import url(./__text-container/resources-item__text-container.css);
+@import url(./_links/resources-item_links.css);
 
 .resources-item {
   display: flex;

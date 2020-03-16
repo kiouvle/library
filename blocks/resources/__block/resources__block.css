@@ -1,4 +1,6 @@
 .resources__block {
-  text-align: center;
-  padding: 15px 30px;
+  text-align: start;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 30px 0 30px;
 }
