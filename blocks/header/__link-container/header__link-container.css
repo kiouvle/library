@@ -9,3 +9,9 @@
     margin-top: 15px;
   }
 }
+
+@media (max-width: 425px) {
+  .header__link-container {
+    margin-top: 5px;
+  }
+}
