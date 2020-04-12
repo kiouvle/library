@@ -16,3 +16,17 @@
 .footer__link:active {
   opacity: 0.8;
 }
+
+@media (max-width: 768px) {
+  .footer__link {
+    font-size: 10px;
+    margin: 10px 0 10px 20px;
+  }
+}
+
+@media (max-width: 425px) {
+  .footer__link {
+    font-size: 8px;
+    margin: 5px 0 5px 10px;
+  }
+}

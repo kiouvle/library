@@ -11,3 +11,10 @@
 .menu__link_icon_in-next {
   margin-left: 60px;
 }
+
+@media (max-width: 768px) {
+  .menu__link_icon {
+    width: 18px;
+    height: 18px;
+  }
+}

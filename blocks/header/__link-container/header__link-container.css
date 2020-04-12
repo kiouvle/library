@@ -3,3 +3,9 @@
   padding-left: 0;
   margin-top: 25px;
 }
+
+@media (max-width: 768px) {
+  .header__link-container {
+    margin-top: 15px;
+  }
+}

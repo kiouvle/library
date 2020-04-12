@@ -8,3 +8,9 @@
   display: flex;
   position: relative;
 }
+
+@media (max-width: 425px)  {
+  .footer {
+    flex-direction: column;
+  }
+}

@@ -5,3 +5,9 @@
   background-color: #63337F;
   padding: 20px 0;
 }
+
+@media (max-width: 768px) {
+  .information__header {
+    padding: 10px 0;
+  }
+}

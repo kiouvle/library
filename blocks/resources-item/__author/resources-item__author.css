@@ -5,3 +5,17 @@
   font-size: 14px;
   line-height: 30px;
 }
+
+@media (max-width: 768px) {
+  .resources-item__author {
+    font-size: 12px;
+    line-height: 16px;
+  }
+}
+
+@media (max-width: 425px) {
+  .resources-item__author {
+    font-size: 11px;
+    line-height: 14px;
+  }
+}

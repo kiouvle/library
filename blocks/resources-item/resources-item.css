@@ -10,3 +10,15 @@
   display: flex;
   margin-bottom: 60px;
 }
+
+@media (max-width: 768px) {
+  .resources-item {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 425px) {
+  .resources-item {
+    margin-bottom: 15px;
+  }
+}

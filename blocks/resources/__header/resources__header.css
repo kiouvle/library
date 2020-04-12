@@ -5,3 +5,15 @@
   background-color: #63337F;
   padding: 20px 0;
 }
+
+@media (max-width: 768px) {
+  .resources__header {
+    padding: 10px 0;
+  }
+}
+
+@media (max-width: 425px) {
+  .resources__header {
+    padding: 5px 0;
+  }
+}

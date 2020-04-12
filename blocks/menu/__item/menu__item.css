@@ -9,3 +9,9 @@
 .menu__item:hover {
   background-color: #D6722D;
 }
+
+@media (max-width: 768px) {
+  .menu__item {
+    padding: 8px 0;
+  }
+}

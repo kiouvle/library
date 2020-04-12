@@ -4,3 +4,15 @@
   text-align: center;
   padding: 15px 30px;
 }
+
+@media (max-width: 768px) {
+  .information__block {
+    padding: 5px 15px;
+  }
+}
+
+@media (max-width: 425px) {
+  .information__block {
+    padding: 0 8px;
+  }
+}

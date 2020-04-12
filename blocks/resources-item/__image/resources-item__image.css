@@ -3,3 +3,19 @@
   height: 150px;
   margin-right: 40px;
 }
+
+@media (max-width: 768px) {
+  .resources-item__image {
+    width: 100px;
+    height: 130px;
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 425px) {
+  .resources-item__image {
+    width: 80px;
+    height: 110px;
+    margin-right: 10px;
+  }
+}

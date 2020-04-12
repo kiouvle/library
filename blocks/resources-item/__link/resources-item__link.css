@@ -20,3 +20,21 @@
 .resources-item__link_list {
   margin: 5px 40px;
 }
+
+@media (max-width: 768px) {
+  .resources-item__link {
+    font-size: 12px;
+  }
+  .resources-item__link_list {
+    margin: 3px 15px;
+  }
+}
+
+@media (max-width: 425px) {
+  .resources-item__link {
+    font-size: 10px;
+  }
+  .resources-item__link_list {
+    margin: 3px 10px;
+  }
+}

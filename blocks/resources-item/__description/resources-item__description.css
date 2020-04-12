@@ -3,3 +3,16 @@
   padding: 0;
   text-align: start;
 }
+
+@media (max-width: 768px) {
+  .resources-item__description {
+    margin: 5px 0 10px 0;
+  }
+}
+
+@media (max-width: 425px) {
+  .resources-item__description {
+    margin: 5px 0 5px 0;
+    font-size: 10px;
+  }
+}

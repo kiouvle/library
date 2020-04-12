@@ -1,3 +1,10 @@
 .information__block_text {
   line-height: 22px;
 }
+
+@media (max-width: 768px) {
+  .information__block_text {
+    font-size: 12px;
+    line-height: 15px;
+  }
+}
