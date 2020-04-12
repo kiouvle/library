@@ -16,3 +16,7 @@
 .resources-item__link:active {
   opacity: 0.8;
 }
+
+.resources-item__link_list {
+  margin: 5px 40px;
+}

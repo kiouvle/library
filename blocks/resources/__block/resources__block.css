@@ -1,3 +1,5 @@
+@import url(./_title/resources__block_title.css);
+
 .resources__block {
   text-align: start;
   display: flex;
