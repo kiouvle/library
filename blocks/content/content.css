@@ -6,8 +6,7 @@
 
 @media (max-width: 425px) {
   .content {
-    flex-direction: column-reverse;
-    justify-content: flex-end;
+    flex-direction: column;
     flex-shrink: inherit;
   }
 }
