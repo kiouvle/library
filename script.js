@@ -19,13 +19,11 @@ const menuLinkService = document.querySelector('.menu__item_service');
 const resourcesService = document.querySelector('.resources_service');
 
 menuLinkEnglish.addEventListener('click', function() {
-  console.log('menuGroupLinks', 'clicked');
   menuGroupEnglish.classList.toggle('menu__group_hidden');
   menuGroupLinks.classList.add('menu__group_hidden');
 });
 
 menuLinkBooks.addEventListener('click', function() {
-  console.log('resourcesBookList', 'clicked');
   informationPage.classList.add('information_hidden');
   resourcesWorksheetList.classList.add('resources_hidden');
   resourcesIWBList.classList.add('resources_hidden');
@@ -37,12 +35,10 @@ menuLinkBooks.addEventListener('click', function() {
 })
 
 menuLinkLinks.addEventListener('click', function() {
-  console.log('menuGroupLinks', 'clicked');
   menuGroupLinks.classList.toggle('menu__group_hidden');
 });
 
 menuLinkWorksheets.addEventListener('click', function() {
-  console.log('resourcesWorksheetList', 'clicked');
   informationPage.classList.add('information_hidden');
   resourcesIWBList.classList.add('resources_hidden');
   resourcesBookList.classList.add('resources_hidden');
@@ -54,7 +50,6 @@ menuLinkWorksheets.addEventListener('click', function() {
 })
 
 menuLinkIWB.addEventListener('click', function() {
-  console.log('resourcesIWBList', 'clicked');
   informationPage.classList.add('information_hidden');
   resourcesBookList.classList.add('resources_hidden');
   resourcesWorksheetList.classList.add('resources_hidden');
@@ -66,7 +61,6 @@ menuLinkIWB.addEventListener('click', function() {
 })
 
 menuLinkDiscovery.addEventListener('click', function() {
-  console.log('resourcesIWBList', 'clicked');
   informationPage.classList.add('information_hidden');
   resourcesBookList.classList.add('resources_hidden');
   resourcesWorksheetList.classList.add('resources_hidden');
@@ -79,7 +73,6 @@ menuLinkDiscovery.addEventListener('click', function() {
 })
 
 menuLinkRussian.addEventListener('click', function() {
-  console.log('resourcesIWBList', 'clicked');
   informationPage.classList.add('information_hidden');
   resourcesBookList.classList.add('resources_hidden');
   resourcesWorksheetList.classList.add('resources_hidden');
@@ -91,7 +84,6 @@ menuLinkRussian.addEventListener('click', function() {
 })
 
 menuLinkPsychology.addEventListener('click', function() {
-  console.log('resourcesIWBList', 'clicked');
   informationPage.classList.add('information_hidden');
   resourcesBookList.classList.add('resources_hidden');
   resourcesWorksheetList.classList.add('resources_hidden');
@@ -104,7 +96,6 @@ menuLinkPsychology.addEventListener('click', function() {
 })
 
 menuLinkService.addEventListener('click', function() {
-  console.log('resourcesIWBList', 'clicked');
   informationPage.classList.add('information_hidden');
   resourcesBookList.classList.add('resources_hidden');
   resourcesWorksheetList.classList.add('resources_hidden');
