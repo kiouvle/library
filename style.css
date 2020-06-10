@@ -9,32 +9,26 @@
 @import url(./blocks/resources-item/resources-item.css);
 
 @font-face {
-  src: url('./fonts/Poppins-Regular.woff') format('woff');
-      font-family: 'Poppins';
+  src: url('./fonts/Montserrat-Regular.woff') format('woff');
+      font-family: 'Montserrat';
       font-weight: normal;
 }
 
 @font-face {
-  src: url('./fonts/Poppins-Medium.woff') format('woff');
-      font-family: 'Poppins';
+  src: url('./fonts/Montserrat-Medium.woff') format('woff');
+      font-family: 'Montserrat';
       font-weight: 500;
 }
 
 @font-face {
-  src: url('./fonts/Poppins-Bold.woff') format('woff');
-      font-family: 'Poppins';
+  src: url('./fonts/Montserrat-Bold.woff') format('woff');
+      font-family: 'Montserrat';
       font-weight: bold;
 }
 
 @font-face {
-  src: url('./fonts/Poppins-ExtraLight.woff') format('woff');
-      font-family: 'Poppins';
+  src: url('./fonts/Montserrat-ExtraLight.woff') format('woff');
+      font-family: 'Montserrat';
       font-weight: lighter;
 }
 
-
-@font-face {
-  src: url('./fonts/PoppinsCyr.woff') format('woff');
-      font-family: 'PoppinsCyr';
-      font-weight: normal;
-}

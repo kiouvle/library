@@ -2,12 +2,12 @@
 
 .header__link {
   text-decoration: none;
-  color: #63337F;
+  color: #609a89;
   font-size: 14px;
 }
 
 .header__link:hover {
-  color: #D6722D;
+  color: #c27180;
 }
 
 .header__link:active {

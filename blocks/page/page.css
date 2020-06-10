@@ -1,12 +1,13 @@
 .page {
-  background: url(../../images/background.png);
+  background: url(../../images/background.jpg);
   background-repeat: repeat;
-  font-family: Poppins, PoppinsCyr, Helvetica, sans-serif;
+  font-family: Montserrat, Helvetica, sans-serif;
   min-height: 100vh;
   background-size: contain;
   flex-direction: column;
   display: flex;
   justify-content: space-between;
+  color: #09745a;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
